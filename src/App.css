@@ -13,13 +13,12 @@ background: linear-gradient(to right, #7a2828, #a73737); /* W3C, IE 10+/ Edge, F
   top: 0;
   left: 0;
   width: 100%;
-  height: 100%;
 }
 
 .projects-grid {
   display: flex;
-  padding-right: 20%;
-  padding-left: 20%;
+  padding-right: 10%;
+  padding-left: 10%;
 }
 
 /* Resume Page css */
@@ -61,7 +60,7 @@ background: linear-gradient(to right, #7a2828, #a73737); /* W3C, IE 10+/ Edge, F
 
 .contact-grid hr {
   border-top: 5px dotted black;
-  width: 50%;
+  width: 65%;
   margin: auto;
 }
 
@@ -74,7 +73,7 @@ background: linear-gradient(to right, #7a2828, #a73737); /* W3C, IE 10+/ Edge, F
 /* contact page css */
 
 .avatar-img {
-  height: 250px;
+  height: 150px;
   padding-top: 5em;
 }
 
@@ -135,4 +134,11 @@ header {
   margin: 0 auto;
   text-align: center;
   padding-top: 50px;
+}
+
+.about {
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 325px;
+  list-style-position: inside;
 }

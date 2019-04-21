@@ -13,20 +13,17 @@ class Projects extends Component {
     if(this.state.activeTab === 0){
       return(
         <div className="projects-grid">
-          {/* Project 1 */}
+          {/* Website */}
           <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
             <CardTitle style={{color: '#000000', height: '176px', background: 'url(https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Alabama_Athletics_logo.svg/2000px-Alabama_Athletics_logo.svg.png) center / cover'}} >Alabama App Website Source</CardTitle>
             <CardText>
               Get the source of our website design.
             </CardText>
             <CardActions border>
-              <a href="https://github.com/ekjohnson4/BamaAppAndroid" rel="noopener noreferrer" target="_blank"><Button colored>GitHub</Button></a>
+              <a href="https://github.com/tgillam/BamaAppSite" rel="noopener noreferrer" target="_blank"><Button colored>GitHub</Button></a>
             </CardActions>
-            <CardMenu style={{color: '#fff'}}>
-              <IconButton name="share" />
-            </CardMenu>
           </Card>
-          {/* Project 2 */}
+          {/* Source */}
           <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
             <CardTitle style={{color: '#000000', height: '176px', background: 'url(https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Alabama_Athletics_logo.svg/2000px-Alabama_Athletics_logo.svg.png) center / cover'}} >University of Alabama App Redesign</CardTitle>
             <CardText>
@@ -35,13 +32,24 @@ class Projects extends Component {
             <CardActions border>
               <a href="https://github.com/ekjohnson4/BamaAppAndroid" rel="noopener noreferrer" target="_blank"><Button colored>GitHub</Button></a>
               <a href="https://youtube.com" rel="noopener noreferrer" target="_blank"><Button colored>Live Demo</Button></a>
+              <a href="https://youtube.com" rel="noopener noreferrer" target="_blank"><Button colored>Download</Button></a>
+
             </CardActions>
-            <CardMenu style={{color: '#fff'}}>
-              <IconButton name="share" />
-            </CardMenu>
           </Card>
 
-          {/* Project 3 */}
+          {/* Sprints */}
+          <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
+            <CardTitle style={{color: '#000000', height: '176px', background: 'url(https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Alabama_Athletics_logo.svg/2000px-Alabama_Athletics_logo.svg.png) center / cover'}} >Presentations</CardTitle>
+            <CardText>
+            View our sprint presentations.
+            </CardText>
+            <CardActions border>
+              <a href="https://docs.google.com/presentation/d/1xhR4ZbdfirU4m0OCmt_8gKjifIeaDEK2mdjnA-vrnwI/" rel="noopener noreferrer" target="_blank"><Button colored>Sprint 1</Button></a>
+              <a href="https://docs.google.com/presentation/d/1fmD5n_tOuarAmmnYE8b9wvjJXYCOLzVHvhegqVTtkkc" rel="noopener noreferrer" target="_blank"><Button colored>Sprint 2</Button></a>
+              <a href="https://docs.google.com/presentation/d/1xhR4ZbdfirU4m0OCmt_8gKjifIeaDEK2mdjnA-vrnwI/" rel="noopener noreferrer" target="_blank"><Button colored>Sprint 3</Button></a>
+
+            </CardActions>
+          </Card>
 
         </div>
 
