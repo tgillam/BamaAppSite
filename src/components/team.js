@@ -22,7 +22,7 @@ class Team extends Component {
             <h2 style={{paddingTop: '1em'}}>Tyler Gillam</h2>
             <h4 style={{color: 'grey'}}>Senior CS Student</h4>
             <hr style={{borderTop: '3px solid #990000', width: '50%'}}/>
-            <p>Bio here</p>
+            <p>Worked on events, links, laundry, action card, and settings pages. Worked on implementing the login system and fluid navigation. Set up the module system which allows for a user customized home page.</p>
             <hr style={{borderTop: '3px solid #990000', width: '50%'}}/>
             <h5>Email</h5>
             <p>tdgillam@crimson.ua.edu</p>
@@ -42,12 +42,12 @@ class Team extends Component {
             <h2 style={{paddingTop: '1em'}}>Ethan Johnson</h2>
             <h4 style={{color: 'grey'}}>Senior CS Student</h4>
             <hr style={{borderTop: '3px solid #990000', width: '50%'}}/>
-            <p>Bio here</p>
+            <p>Worked on the campus map, transportation, grades, tickets, course catalog, and campus directory pages.  Also created both versions of the home pages and worked on the login system.</p>
             <hr style={{borderTop: '3px solid #990000', width: '50%'}}/>
             <h5>Email</h5>
             <p>ekjohnson4@crimson.ua.edu</p>
             <h5>Github</h5>
-            <p>https://github.com/tgillam</p>
+            <p>https://github.com/ekjohnson4</p>
             <hr style={{borderTop: '3px solid #990000', width: '50%'}}/>
           </Cell>
 
@@ -63,12 +63,12 @@ class Team extends Component {
             <h2 style={{paddingTop: '1em'}}>Michael Ahern</h2>
             <h4 style={{color: 'grey'}}>Senior CS Student</h4>
             <hr style={{borderTop: '3px solid #990000', width: '50%'}}/>
-            <p>Bio here</p>
+            <p>Worked on the news and emergency pages.  Worked on pulling information from RSS feeds.</p>
             <hr style={{borderTop: '3px solid #990000', width: '50%'}}/>
             <h5>Email</h5>
             <p>mjahern@crimson.ua.edu</p>
             <h5>Github</h5>
-            <p>https://github.com/tgillam</p>
+            <p>https://github.com/mjahern</p>
             <hr style={{borderTop: '3px solid #990000', width: '50%'}}/>
           </Cell>
 
@@ -84,12 +84,12 @@ class Team extends Component {
             <h2 style={{paddingTop: '1em'}}>Nicholas Brunelle</h2>
             <h4 style={{color: 'grey'}}>Senior CS Student</h4>
             <hr style={{borderTop: '3px solid #990000', width: '50%'}}/>
-            <p>Bio here</p>
+            <p>Worked on the schedule and tickets pages.</p>
             <hr style={{borderTop: '3px solid #990000', width: '50%'}}/>
             <h5>Email</h5>
             <p>nabrunelle@crimson.ua.edu</p>
             <h5>Github</h5>
-            <p>https://github.com/tgillam</p>
+            <p>https://github.com/nickbrunelle</p>
             <hr style={{borderTop: '3px solid #990000', width: '50%'}}/>
           </Cell>
 
