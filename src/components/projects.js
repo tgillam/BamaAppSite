@@ -31,8 +31,8 @@ class Projects extends Component {
             </CardText>
             <CardActions border>
               <a href="https://github.com/ekjohnson4/BamaAppAndroid" rel="noopener noreferrer" target="_blank"><Button colored>GitHub</Button></a>
-              <a href="https://youtube.com" rel="noopener noreferrer" target="_blank"><Button colored>Live Demo</Button></a>
-              <a href="https://youtube.com" rel="noopener noreferrer" target="_blank"><Button colored>Download</Button></a>
+              <a href="https://youtu.be/CJr7WGcF044" rel="noopener noreferrer" target="_blank"><Button colored>Live Demo</Button></a>
+              <a href="hhttps://github.com/ekjohnson4/BamaAppAndroid/raw/master/app-debug.apk" rel="noopener noreferrer" target="_blank"><Button colored>Download</Button></a>
 
             </CardActions>
           </Card>
@@ -46,7 +46,7 @@ class Projects extends Component {
             <CardActions border>
               <a href="https://docs.google.com/presentation/d/1xhR4ZbdfirU4m0OCmt_8gKjifIeaDEK2mdjnA-vrnwI/" rel="noopener noreferrer" target="_blank"><Button colored>Sprint 1</Button></a>
               <a href="https://docs.google.com/presentation/d/1fmD5n_tOuarAmmnYE8b9wvjJXYCOLzVHvhegqVTtkkc" rel="noopener noreferrer" target="_blank"><Button colored>Sprint 2</Button></a>
-              <a href="https://docs.google.com/presentation/d/1xhR4ZbdfirU4m0OCmt_8gKjifIeaDEK2mdjnA-vrnwI/" rel="noopener noreferrer" target="_blank"><Button colored>Sprint 3</Button></a>
+              <a href="https://docs.google.com/presentation/d/1uTOwS1SAFgtLrSlvk10H4KSFpoKF2zG-cNils_94hcw/" rel="noopener noreferrer" target="_blank"><Button colored>Sprint 3</Button></a>
 
             </CardActions>
           </Card>

@@ -141,4 +141,6 @@ header {
   text-align: center;
   padding-top: 325px;
   list-style-position: inside;
+  width: 65%;
+  margin:auto;
 }
